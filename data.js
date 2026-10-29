@@ -66,16 +66,6 @@ const certifications = [
     verifyUrl: ""
   },
   {
-    id: "cert-7",
-    title: "Mata Pelajaran IPA",
-    issuer: "REFO",
-    date: "2020-04",
-    category: "webinar",
-    thumbnail: "assets/logos/refo.webp",
-    pdfUrl: "assets/certificates/Pelajaran-IPA.pdf",
-    verifyUrl: ""
-  },
-  {
     id: "cert-8",
     title: "Rubrik Penilaian di Google Classroom",
     issuer: "REFO",
